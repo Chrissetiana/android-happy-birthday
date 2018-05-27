@@ -1,4 +1,4 @@
-package com.chrissetiana.android.happybirthday;
+package com.chrissetiana.happybirthday;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

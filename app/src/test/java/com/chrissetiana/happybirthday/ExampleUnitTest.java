@@ -1,4 +1,4 @@
-package com.chrissetiana.android.happybirthday;
+package com.chrissetiana.happybirthday;
 
 import org.junit.Test;
 
